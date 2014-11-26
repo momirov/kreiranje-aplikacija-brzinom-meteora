@@ -1,0 +1,7 @@
+{
+  "name": "presentation-kreiranje-aplikacija-brzinom-meteora",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
